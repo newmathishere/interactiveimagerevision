@@ -1,2 +1,1 @@
-# interactiveimagerevision
-Revised interactive image assignment 1
+# interactive-image
