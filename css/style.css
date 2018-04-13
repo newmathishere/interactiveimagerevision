@@ -243,13 +243,19 @@ img {
 				left: 0px;
 				z-index: 3;
 				padding: 70px 15px 30px 15px;
-				font-size: 1.3em;
+				font-size: 1.0em;
 				text-align: center;
 				color: black;
 				height: 100%;
 				font-family: 'Roboto', sans-serif;
 				/*display: none;*/
 		}
+		.photo-container {
+				width: 80%;
+				position: relative;
+				display: block;
+				    margin-left: auto;
+				    margin-right: auto;
 
 
 }
@@ -260,8 +266,8 @@ img {
 				background-color: purple;
 		}
 		.popIn-info {
-				font-size: 1.5em;
-				padding: 200px 15px 30px 15px;
+				font-size: 1.3em;
+				padding: 100px 15px 30px 15px;
 				/*display: none;*/
 		}
 
